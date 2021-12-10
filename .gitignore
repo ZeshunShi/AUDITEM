@@ -1,1 +1,4 @@
 .DS_Store
+data/besu/.DS_Store
+data/ethereum/.DS_Store
+data/sawtooth/.DS_Store
