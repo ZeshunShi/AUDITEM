@@ -1,13 +1,1 @@
-.DS_Store
-data/besu/.DS_Store
-data/ethereum/.DS_Store
-data/sawtooth/.DS_Store
-data/fabric/.DS_Store
-data/besu/.DS_Store
-data/fabric/.DS_Store
-<<<<<<< HEAD
-data/fabric/.DS_Store
-=======
-data/ethereum/.DS_Store
-data/iroha/.DS_Store
->>>>>>> 0748453d61e82b3b3e316eadfebdf6ee71ac622e
+**/.DS_Store
